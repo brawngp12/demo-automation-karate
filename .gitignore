@@ -1,0 +1,18 @@
+# Maven
+target/
+*.class
+
+# IDE files
+.idea/
+*.iml
+.vscode/
+*.classpath
+*.project
+.settings/
+
+# Karate reports (generated at runtime)
+target
+
+# OS files
+.DS_Store
+Thumbs.db

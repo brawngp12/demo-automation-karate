@@ -1,0 +1,26 @@
+{
+  "code": "SUCCESS",
+  "message": "Call API /le-table/stock/MBB?pageSize=1 successful",
+  "data": {
+    "items": [
+      {
+        "_id": "6ab62689c7e36af64d6927a1",
+        "stockSymbol": "MBB",
+        "boardId": "MAIN",
+        "exchange": "hose",
+        "accumulatedVol": 7854300,
+        "accumulatedVal": 156758630000,
+        "vol": 1000,
+        "val": 19900000,
+        "changeType": "U",
+        "price": 19900,
+        "priceChange": 50,
+        "priceChangePercent": 0.25,
+        "ref": 19850,
+        "side": "bu",
+        "time": "14:45:00"
+      }
+    ],
+    "pageSize": 1
+  }
+}
